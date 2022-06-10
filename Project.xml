@@ -175,7 +175,7 @@
     </codeStyleSettings>
     <codeStyleSettings language="TypeScript">
 		<option name="ALIGN_MULTILINE_CHAINED_METHODS" value="false" />
-		<option name="SPACE_BEFORE_METHOD_PARENTHESES" value="false" />
+		<option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
 		<indentOptions>
         <option name="USE_TAB_CHARACTER" value="true" />
       </indentOptions>
